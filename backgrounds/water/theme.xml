@@ -1,0 +1,24 @@
+
+<name>SMW Underwater</name>
+<creator>Knuxfan</creator>
+<vers>1.0</vers>
+
+<layers>2</layers>
+
+<layer0>0</layer0>
+<layer0y>0</layer0y>
+
+<layer1>0</layer1>
+<layer1y>0</layer1y>
+
+<music>sm64-wat.xm</music>
+<musicname>Jolly Roger Bay</musicname>
+<musicartist>Emil Broling</musicartist>
+<thumbnail>thumbnail.nonanex.bmp</thumbnail>
+
+<sine>1</sine>
+<sineheight>2</sineheight>
+<sinewidth>20</sinewidth>
+<sinelayerheight>1</sinelayerheight>
+<sinerate>10000</sinerate>
+
