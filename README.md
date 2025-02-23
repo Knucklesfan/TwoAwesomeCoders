@@ -1,7 +1,7 @@
 # To prove that one exists, they must create a magnum opus
 
 Simply put, this is trash. This sucks.
-Very simple SDL2 video player with some goofy ass gaming stuff on top of it as a joke to play family guy clips with madagascar worked into it.
+Very simple SDL2 video player with some goofy gaming stuff on top of it as a joke to play family guy clips with madagascar worked into it.
 
 To compile:
 install SDL2, SDL2-mixer, and ffmpeg
